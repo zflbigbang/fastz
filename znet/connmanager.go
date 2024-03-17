@@ -2,8 +2,8 @@ package znet
 
 import (
 	"errors"
-	"fastz/ziface"
 	"fmt"
+	"github.com/zflbigbang/fastz/ziface"
 	"sync"
 )
 

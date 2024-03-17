@@ -1,6 +1,6 @@
 package znet
 
-import "fastz/ziface"
+import "github.com/zflbigbang/fastz/ziface"
 
 type Request struct {
 	conn ziface.IConnection //已经和客户端建立好的 链接

@@ -2,9 +2,9 @@ package znet
 
 import (
 	"errors"
-	"fastz/utils"
-	"fastz/ziface"
 	"fmt"
+	"github.com/zflbigbang/fastz/utils"
+	"github.com/zflbigbang/fastz/ziface"
 	"io"
 	"net"
 	"sync"

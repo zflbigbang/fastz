@@ -2,7 +2,7 @@ package utils
 
 import (
 	"encoding/json"
-	"fastz/ziface"
+	"github.com/zflbigbang/fastz/ziface"
 	"os"
 )
 
