@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"encoding/binary"
 	"errors"
-	"fastz/utils"
-	"fastz/ziface"
+	"github.com/zflbigbang/fastz/utils"
+	"github.com/zflbigbang/fastz/ziface"
 )
 
 // 封包拆包类实例，暂时不需要成员
