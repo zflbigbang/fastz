@@ -44,3 +44,7 @@ func (msg *Message) SetMsgId(msgId uint32) {
 func (msg *Message) SetData(data []byte) {
 	msg.Data = data
 }
+
+func test()  {
+	println("test")
+}
